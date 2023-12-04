@@ -21,3 +21,5 @@ This is a Unreal Engine5 demo, which named castaway, in this folder.
 本游戏使用Unreal Engine 5.2.1开发。主要使用了以下技术：Fluid Flux流体插件，UIWS交互水体插件，Niagara特效，碰撞体添加，IK重定向，UMG，HUD  
 4.关于打包  
 由于近期使用Android Studio的时候，调整了部分配置，导致UE5的打包出现问题，暂不能提供打包文件。  
+****
+3dsmax-demo  
