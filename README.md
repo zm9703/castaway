@@ -1,4 +1,6 @@
-# UE5-demo
+# demo说明
+****
+ue5-demo  
 This is a Unreal Engine5 demo, which named castaway, in this folder.  
 1.游戏规则说明  
 这是一个第三人称游戏，主角Lary流落到了一个荒岛上，周围是一望无际的海洋，他必须在小岛上寻找食物和水源维持健康，等待救援。  
@@ -23,3 +25,6 @@ This is a Unreal Engine5 demo, which named castaway, in this folder.
 由于近期使用Android Studio的时候，调整了部分配置，导致UE5的打包出现问题，暂不能提供打包文件。  
 ****
 3dsmax-demo  
+This is a little demo of 3ds MAX, which presented in two formats, max and obj. The demo is a ring.
+技术说明
+本demo使用3ds MAX制作。主要使用了以下技术：圆环，样条线，可编辑多边形，弯曲，对称。
