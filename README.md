@@ -1,6 +1,6 @@
 # demo说明
 ****
-ue5-demo  
+UE5-demo  
 This is a Unreal Engine5 demo, which named castaway, in this folder.  
 1.游戏规则说明  
 这是一个第三人称游戏，主角Lary流落到了一个荒岛上，周围是一望无际的海洋，他必须在小岛上寻找食物和水源维持健康，等待救援。  
