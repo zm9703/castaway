@@ -25,6 +25,6 @@ This is a Unreal Engine5 demo, which named castaway, in this folder.
 由于近期使用Android Studio的时候，调整了部分配置，导致UE5的打包出现问题，暂不能提供打包文件。  
 ****
 3dsmax-demo  
-This is a little demo of 3ds MAX, which presented in two formats, max and obj. The demo is a ring.
-技术说明
-本demo使用3ds MAX制作。主要使用了以下技术：圆环，样条线，可编辑多边形，弯曲，对称。
+This is a little demo of 3ds MAX, which presented in two formats, max and obj. The demo is a ring.  
+技术说明  
+本demo使用3ds MAX制作。主要使用了以下技术：圆环，样条线，可编辑多边形，弯曲，对称。  
